@@ -1,0 +1,31 @@
+Sr No.,MATCH ID,VENUE CITY,Batting position,Batting position,GROUND,OPPOSITION,PITCH,WEATHER,AVERAGE IN LAST 5 MATCHES,AVERAGE IN LAST 5 MATCHES,FOURS IN LAST 5 MACTHES,FOURS IN LAST 5 MACTHES,SIXES IN LAST 5 MATCHES,SIXES IN LAST 5 MATCHES,SCORE IN LAST 5 MATCHES,SCORE IN LAST 5 MATCHES,RUNS,Range of Runs
+1,2021_019,Wellington,Six,6,Wellington,Newzealnad,Batting Friendly,Clear,49.8,Fourteen - Ninety Four,25,More than Twelve,3,Zero - Four,249,More than Two Hundred Four,1,Zero - Thirty
+2,2021_023,Mirpur,One,1,Shere Bangla,Srilanka,Bowling Friendly,Partly Clouds,41.2,Fourteen - Ninety Four,18,More than Twelve,3,Zero - Four,206,More than Two Hundred Four,52,Thirty One - Eighty Five
+3,2021_024,Mirpur,One,1,Shere Bangla,Srilanka,Bowling Friendly,Few Clouds,41.6,Fourteen - Ninety Four,21,More than Twelve,3,Zero - Four,208,More than Two Hundred Four,13,Zero - Thirty
+4,2021_025,Mirpur,Two,2,Shere Bangla,Srilanka,Bowling Friendly,Slow Rain,31.4,Fourteen - Ninety Four,18,More than Twelve,2,Zero - Four,157,Ninety Four - Two Hundred Four,17,Zero - Thirty
+5,2021_046,Harare,Two,2,Harare,Zimbabawe,Batting Friendly,Cloudy,32.2,Fourteen - Ninety Four,22,More than Twelve,1,Zero - Four,161,Ninety Four - Two Hundred Four,0,Zero - Thirty
+6,2021_047,Harare,Two,2,Harare,Zimbabawe,Batting Friendly,Few Clouds,16.6,Fourteen - Ninety Four,11,Five - Twelve,1,Zero - Four,83,Fourteen - Ninety Four,20,Zero - Thirty
+7,2021_048,Harare,One,1,Harare,Zimbabawe,Batting Friendly,Few Clouds,20.4,Fourteen - Ninety Four,15,More than Twelve,1,Zero - Four,102,Ninety Four - Two Hundred Four,108,More than Eighty Five
+8,2022_016,Mirpur,Two,2,Shere Bangla,Afghanistan,Bowling Friendly,Clear,31.6,Fourteen - Ninety Four,17,More than Twelve,3,Zero - Four,158,Ninety Four - Two Hundred Four,8,Zero - Thirty
+9,2022_017,Mirpur,One,1,Shere Bangla,Afghanistan,Bowling Friendly,Few Clouds,30.6,Fourteen - Ninety Four,16,More than Twelve,3,Zero - Four,153,Ninety Four - Two Hundred Four,12,Zero - Thirty
+10,2022_018,Mirpur,Two,2,Shere Bangla,Afghanistan,Bowling Friendly,Clear,29.6,Fourteen - Ninety Four,16,More than Twelve,3,Zero - Four,148,Ninety Four - Two Hundred Four,11,Zero - Thirty
+11,2022_022,Centurion,Three,3,Supersport Park,South Africa,Batting Friendly,Partly Clouds,31.8,Fourteen - Ninety Four,17,More than Twelve,3,Zero - Four,159,Ninety Four - Two Hundred Four,41,Thirty One - Eighty Five
+12,2022_023,Johannesburg,Three,3,Wanderers,South Africa,Balanced,Overcast,36,Fourteen - Ninety Four,16,More than Twelve,4,Zero - Four,180,Ninety Four - Two Hundred Four,1,Zero - Thirty
+13,2022_024,Centurion,One,1,Supersport Park,South Africa,Batting Friendly,Broken Clouds,14.6,Fourteen - Ninety Four,8,Five - Twelve,1,Zero - Four,73,Fourteen - Ninety Four,87,More than Eighty Five
+14,2022_048,Providence,Two,2,Providence,West Indies,Balanced,Clear,30.4,Fourteen - Ninety Four,20,More than Twelve,1,Zero - Four,152,Ninety Four - Two Hundred Four,33,Thirty One - Eighty Five
+15,2022_049,Providence,One,1,Providence,West Indies,Balanced,Few Clouds,34.6,Fourteen - Ninety Four,22,More than Twelve,2,Zero - Four,173,Ninety Four - Two Hundred Four,50,Thirty One - Eighty Five
+16,2022_050,Providence,Two,2,Providence,West Indies,Balanced,Broken Clouds,42.4,Fourteen - Ninety Four,28,More than Twelve,2,Zero - Four,212,More than Two Hundred Four,34,Thirty One - Eighty Five
+17,2022_060,Harare,Two,2,Harare,Zimbabawe,Batting Friendly,Clear,41,Fourteen - Ninety Four,29,More than Twelve,1,Zero - Four,205,More than Two Hundred Four,62,Thirty One - Eighty Five
+18,2022_061,Harare,Two,2,Harare,Zimbabawe,Batting Friendly,Clear,53.2,Fourteen - Ninety Four,38,More than Twelve,1,Zero - Four,266,More than Two Hundred Four,50,Thirty One - Eighty Five
+19,2022_062,Harare,Two,2,Harare,Zimbabawe,Batting Friendly,Clear,45.8,Fourteen - Ninety Four,34,More than Twelve,2,Zero - Four,229,More than Two Hundred Four,19,Zero - Thirty
+20,2023_045,Mirpur,One,1,Shere Bangla,England,Bowling Friendly,Clear,43,Fourteen - Ninety Four,33,More than Twelve,1,Zero - Four,215,More than Two Hundred Four,23,Zero - Thirty
+21,2023_046,Mirpur,One,1,Shere Bangla,England,Bowling Friendly,Clear,37.6,Fourteen - Ninety Four,30,More than Twelve,1,Zero - Four,188,Ninety Four - Two Hundred Four,35,Thirty One - Eighty Five
+22,2023_047,Chattogram,One,1,Zahur Ahmed,England,Batting Friendly,Clear,37.8,Fourteen - Ninety Four,30,More than Twelve,1,Zero - Four,189,Ninety Four - Two Hundred Four,11,Zero - Thirty
+23,2023_048,Sylhet,One,1,Sylhet,Ireland,Batting Friendly,Few Clouds,27.6,Fourteen - Ninety Four,22,More than Twelve,1,Zero - Four,138,Ninety Four - Two Hundred Four,3,Zero - Thirty
+24,2023_049,Sylhet,Two,2,Sylhet,Ireland,Batting Friendly,Moderate Rain,18.2,Fourteen - Ninety Four,12,Five - Twelve,0,Zero - Four,91,Fourteen - Ninety Four,23,Zero - Thirty
+25,2023_050,Sylhet,Two,2,Sylhet,Ireland,Batting Friendly,Few Clouds,19,Fourteen - Ninety Four,13,More than Twelve,0,Zero - Four,95,Ninety Four - Two Hundred Four,41,Thirty One - Eighty Five
+26,2023_100,Chlemsford,One,1,County Ground,Ireland,Bowling Friendly,Overcast,22.6,Fourteen - Ninety Four,14,More than Twelve,2,Zero - Four,113,Ninety Four - Two Hundred Four,14,Zero - Thirty
+27,2023_101,Chlemsford,Two,2,County Ground,Ireland,Bowling Friendly,Overcast,18.4,Fourteen - Ninety Four,12,Five - Twelve,2,Zero - Four,92,Fourteen - Ninety Four,7,Zero - Thirty
+28,2023_102,Chlemsford,One,1,County Ground,Ireland,Bowling Friendly,Overcast,17.6,Fourteen - Ninety Four,11,Five - Twelve,2,Zero - Four,88,Fourteen - Ninety Four,69,Thirty One - Eighty Five
+29,2023_109,Chattogram,Two,2,Zahur Ahmed,Afghanistan,Bowling Friendly,Broken Clouds,30.8,Fourteen - Ninety Four,17,More than Twelve,2,Zero - Four,154,Ninety Four - Two Hundred Four,13,Zero - Thirty
+30,2023_226,Mirpur,One,1,Shere Bangla,Newzealnad,Bowling Friendly,Moderate Rain,28.8,Fourteen - Ninety Four,15,More than Twelve,2,Zero - Four,144,Ninety Four - Two Hundred Four,44,Thirty One - Eighty Five
